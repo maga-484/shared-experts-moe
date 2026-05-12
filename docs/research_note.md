@@ -42,7 +42,7 @@ Tomamos el silo 0 (variación original 0.05) y generamos un nuevo dominio con va
 
 **No solo no hubo olvido, sino que ambos dominios mejoraron.** El veredicto es:
 
-> ✅ OLVIDO DESPRECIABLE (<5%) + MEJORA EN NUEVOS DATOS
+> �?OLVIDO DESPRECIABLE (<5%) + MEJORA EN NUEVOS DATOS
 
 ## 4. ¿Por qué funciona?
 
